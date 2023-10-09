@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "playlist":"rock",
+        "artista":"Soda Stereo",
+        "nombre" : "De Musica Ligera",
+        "url":"assets/music/rock/1-DeMusicaLigera.mp3",
+        "duracion":209
+    },
+    {
+        "id":2,
+        "playlist":"rock",
+        "artista":"Los Prisioneros",
+        "nombre" : "El Baile De Los Que Sobran",
+        "url":"assets/music/rock/2-ElBaileDeLosQueSobran.mp3",
+        "duracion":344
+    }
+]

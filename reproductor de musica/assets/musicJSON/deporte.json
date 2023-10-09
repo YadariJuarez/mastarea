@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "playlist":"deporte",
+        "artista":"Olivia Newton",
+        "nombre" : "Physical",
+        "url":"assets/music/deporte/Olivia Newton-Physical.mp3",
+        "duracion":215
+    },
+    {
+        "id":1,
+        "playlist":"deporte",
+        "artista":"--------",
+        "nombre" : "Entrenamiento de Rocky",
+        "url":"assets/audio/Rocky Balboa - Música de entrenamiento.mp3",
+        "duracion":158
+    }
+
+]
